@@ -1,0 +1,6 @@
+{
+  "name": "The Spice Atelier",
+  "description": "Where Every Bite Tells a Royal Story. Royal fine dining experience featuring deep burgundy, metallic royal gold, ivory, ornate palace patterns, and authentic royal Indian gastronomy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
